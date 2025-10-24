@@ -68,8 +68,8 @@ Adzuna API: Job data source
 
 **End-to-End ETL Pipeline Flow: Job Market Analytics**
 1. Data Source Identification
-Source: Public job listings (e.g., https://www.indeed.com/, https://www.linkedin.com/jobs/, https://www.usajobs.gov/, etc.)
-Format: HTML pages, APIs, or downloadable CSV/JSON files.
+Source: Public job listings (Adzuna https://www.adzuna.com/)
+Format:JSON files.
 
 
 2. Data Ingestion Layer
